@@ -1,0 +1,57 @@
+@ARTICLE {Murata_TDT,
+    author  = "Swit Phuvipadawat, Tsuyoshi Murata",
+    title   = "Breaking News Detection and Tracking in Twitter",
+    journal = "2010 IEEE/WIC/ACM International Conference on Web Intelligence and Intelligent Agent Technology",
+    year    = "2010"
+}
+@ARTICLE {Allan_TDT,
+    author  = "J. Allan",
+    title   = "Topic detection and tracking: event-based information organization",
+    journal = "Springer, volume 12",
+    year    = "2002"
+}
+@ARTICLE {Aggrawal_Clustering,
+    author  = "Aggarwal, C. C., and C. Zhai",
+    title   = "A survey of text clustering algorithms. In Mining Text Data",
+    journal = "Springer: New York",
+    year    = "2012",
+    pages   = "77–128"
+}
+@ARTICLE {Yang_ED,
+    author  = "Yaang, Y., T. Pierce, and J. Carbonell",
+    title   = "A study of retrospective and on-line event detection.",
+    journal = "SIGIR ’98, ACM, New York, NY",
+    year    = "1998",
+    pages   = "28–36"
+}
+@ARTICLE {Yang_TDT,
+    author  = "Yang, Y., J. Zhang, J. Carbonell",
+    title   = "Topic-conditioned novelty detection",
+    journal = "KDD ’02, ACM, New York, NY",
+    year    = "2002",
+    pages   = "688–693"
+}
+@ARTICLE {Hilla_ED,
+    author  = "Hila Becker, Mor Naaman, Luis Gravano",
+    title   = "Beyond Trending Topics: Real-World Event Identification on Twitter",
+    journal = "Fifth International AAAI Conference on Weblogs and Social Media",
+    year    = "2011"
+}
+@ARTICLE {Sensing_TW,
+    author  = "Luca Maria Aiello, Georgios Petkos,  Carlos Martín Dancausa, et al.",
+    title   = "Sensing Trending Topics in Twitter",
+    journal = "IEEE Transactions on Multimedia",
+    year    = "2013"
+}
+@ARTICLE {Twevent,
+    author  = "Chenliang Li, Aixin Sun",
+    title   = "Twevent: segment-based event detection from tweets",
+    journal = "CIKM '12 Proceedings of the 21st ACM international conference on Information and knowledge management",
+    year    = "2012"
+}
+@ARTICLE {Sasa,
+    author  = "Sasa Petrovic",
+    title   = "Real-time Event Detection in Massive Streams",
+    journal = "University of Edinburgh",
+    year    = "2012"
+}

@@ -1,0 +1,115 @@
+connected
+querying..
+retrieving..
+16800
+retrieved 16807 documents from window
+filtered 8080 documents, 8727 left
+____________________________________________________
+running geo model
+filtered 7184 documents, 1543 left
+detected 103 geo clusters
+____________________________________________________
+running entity model
+removed 7424 documents 1303 left
+100.00%
+100.00%
+detected 24 entity clusters
+____________________________________________________
+running n-gram model
+100.00%
+100.00%
+detected 19 n-gram clusters
+100.00%
+100.00%
+100.00%
+100.00%
+-----#-----#-----#-----#-----#-----#-----#-----#-----
+time: 2015-12-12 20:56:33.928571
+location: [-77.60725867  43.14884102]
+popular hashtags: [(u'rochester', 13), (u'photo', 7), (u'StepJam2015', 4), (u'WDKX', 4), (u'Rochester', 4)]
+popular checkins: [(u'blue', 4), (u'arena', 4), (u'cross', 4)]
+https://www.instagram.com/p/_NAwT4nEUd/
+https://www.instagram.com/p/_NA_ZAuWNC/
+https://www.instagram.com/p/_NCyyGuWA0/
+https://www.instagram.com/p/_NDImaMZ4G/
+https://www.instagram.com/p/_NDsg_uWC5/
+https://www.instagram.com/p/_NEaskuWEQ/
+https://www.instagram.com/p/_NE0PXuWFZ/
+https://www.instagram.com/p/_NF8v_GyIA/
+https://www.instagram.com/p/_NGG8qmyIX/
+https://www.instagram.com/p/_NGVcjGyI9/
+https://www.instagram.com/p/_NQOOBS7Yj/
+https://www.instagram.com/p/_NRFNnILOt/
+https://www.instagram.com/p/_NSUAJElEF/
+https://www.instagram.com/p/_NSrjBimZh/
+https://www.instagram.com/p/_NTdSdS7ff/
+https://www.instagram.com/p/_NXy2FwFq19Am57_OpNfnCoS4Izh7lOn1ZKmw0/
+-----#-----#-----#-----#-----#-----#-----#-----#-----
+time: 2015-12-12 20:12:30.428571
+location: [-70.23532657  44.13351343]
+popular hashtags: [(u'mesports', 14), (u'cm', 8), (u'SJbasketball', 7), (u'sjbasketball', 7), (u'st', 5)]
+popular checkins: []
+-----#-----#-----#-----#-----#-----#-----#-----#-----
+time: 2015-12-12 21:31:38.857143
+location: [-71.3033368   41.74554335]
+popular hashtags: [(u'pottery', 9), (u'paint', 4), (u'party', 4), (u'birthday', 4), (u'painting', 4)]
+popular checkins: [(u'pottery', 1), (u'art', 1), (u'club', 1)]
+https://www.instagram.com/p/_NCRIMNodX/
+https://www.instagram.com/p/_NOfY0tr09/
+https://www.instagram.com/p/_NPCwhNr1_/
+https://www.instagram.com/p/_NP5Z-tr33/
+https://www.instagram.com/p/_NQERQNr4S/
+https://www.instagram.com/p/_NWk09hHfR/
+-----#-----#-----#-----#-----#-----#-----#-----#-----
+time: 2015-12-12 19:56:16
+location: [-72.253334   41.8049316]
+popular hashtags: [(u'gampel', 4), (u'pavilion', 3), (u'uconn', 2), (u'go', 2), (u'godawgs', 2)]
+popular checkins: [(u'pavilion', 3), (u'gampel', 3)]
+https://www.instagram.com/p/_NDy2wB3Fe/
+https://www.instagram.com/p/_NE6t7GpZl2oYAWUB3dDDIchR980qbI5XRZOk0/
+https://www.instagram.com/p/_NE3erClyHkeJOM-UPAsXeivFogPlJIWz3jfE0/
+-----#-----#-----#-----#-----#-----#-----#-----#-----
+time: 2015-12-12 20:37:38.400000
+location: [-69.8601401  44.4499815]
+popular hashtags: [(u'mesports', 20), (u'cm', 8), (u'sjbasketball', 7), (u'SJbasketball', 7), (u'leads', 5)]
+popular checkins: []
+-----#-----#-----#-----#-----#-----#-----#-----#-----
+time: 2015-12-12 19:59:28.142857
+location: [-71.0887545  42.3136695]
+popular hashtags: [(u'jobsjusticeclimate', 14), (u'FightFor15', 2), (u'justice', 2), (u'create', 2), (u'fightfor15', 2)]
+popular checkins: []
+-----#-----#-----#-----#-----#-----#-----#-----#-----
+time: 2015-12-12 21:11:10.166667
+location: [-71.0618882   42.36588088]
+popular hashtags: [(u'td', 6), (u'garden', 6), (u'everything', 2), (u'newestbruinsfan', 2), (u'concert', 1)]
+popular checkins: [(u'td', 6), (u'garden', 6)]
+https://www.instagram.com/p/_NG6q1TaPe/
+https://www.instagram.com/p/_NKWHHnaQi/
+https://www.instagram.com/p/_NMLphhROIlKR6ez-6qlbWoVX9dilAq5ZJCgk0/
+https://www.instagram.com/p/_NPyLdHBAU/
+https://www.instagram.com/p/_NQ-8tLzDY/
+https://www.instagram.com/p/_NRixoCVdl/
+-----#-----#-----#-----#-----#-----#-----#-----#-----
+time: 2015-12-12 20:29:52.500000
+location: [-71.0618882   42.36588088]
+popular hashtags: [(u'nhlbruins', 6), (u'garden', 5), (u'td', 4), (u'NHLBruins', 2), (u'munchkins2015', 2)]
+popular checkins: [(u'td', 4), (u'garden', 4)]
+https://www.instagram.com/p/_NBfKrIWvZAX8libeElAV1B0Z-djOrbgYHy900/
+https://www.instagram.com/p/_NGN8TlqMK/
+https://www.instagram.com/p/_NKmFRJrrZ/
+https://www.instagram.com/p/_NP-M4SRSFLbOnV_n6MyFLsVo8oAdWEmB3lHk0/
+-----#-----#-----#-----#-----#-----#-----#-----#-----
+time: 2015-12-12 20:19:15.666667
+location: [-71.0887545  42.3136695]
+popular hashtags: [(u'panthers', 17), (u'bruins', 17), (u'nhl', 16), (u'MetroBoston', 15), (u'Bruins', 15)]
+popular checkins: []
+-----#-----#-----#-----#-----#-----#-----#-----#-----
+time: 2015-12-12 20:36:24.200000
+location: [-72.51810993  43.62424866]
+popular hashtags: [(u'woodstock', 5), (u'parade', 4), (u'ho', 3), (u'town', 2), (u'vermont', 2)]
+popular checkins: [(u'woodstock', 4), (u'town', 2), (u'vermont', 1)]
+https://www.instagram.com/p/_NG187PcBtHv4AMqX8h-v8zECeh575SFZqXS80/
+https://www.instagram.com/p/_NG_fPvcCPumg-I-dF0CdEvn-uMlmCBPp8iu80/
+https://www.instagram.com/p/_NHHwgPcCxnqFdfpBTyr3t8wjJrfIxWCaQV2c0/
+https://www.instagram.com/p/_NHqXIJKsb/
+https://www.instagram.com/p/_NR90wQjo4a9LnSSv-gkPRv75WcOi-cRmaPVk0/
