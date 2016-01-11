@@ -1,9 +1,9 @@
-event_mining
-============
+Oracle
+=========
 
 Feature rich event detection in social feeds.
 
-This software performs New Event Detection from stream of public tweets.
+This software performs new event detection from a stream of public tweets.
 It works against a MongoDB tweet database created by the hydra mining engine (look mining_hydra).
 
 Event mining engine consists of 4 main modules:
