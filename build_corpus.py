@@ -1,16 +1,15 @@
 import re
 from utils import progress
-from processor import MDB, text_process
+from text_processor import MDB, text_process
 
-f = open('tw_ht_corpus.txt', 'a')
-p = MDB('tweets', 1, port = 27017)
+f = open('assets/tw_ht_corpus_2.txt', 'a')
+p = MDB('tweets')
 cols = p.client['tweets'].collection_names()
 cols.remove('SPB')
+cols.remove('EKB')
 cols.remove('Moscow')
-
+print cols
 i = 0
-container = []
-b_size = 1000
 
 counts = []
 for c in cols:
@@ -24,7 +23,7 @@ for c in cols:
     ml = p.client['tweets'][c].find()
     for t in ml:
         try:
-            dt = text_process(t)
+            dt = text_process(t)[0]
             progress(i, total)
             if dt:
                 f.write(dt + '\n')
